@@ -19,11 +19,12 @@ import edu.wpi.first.wpilibj.*;
  */
 
 public class Robot extends SimpleRobot {
+    
     /**
      * This function is called once each time the robot enters autonomous mode.
      */
     public void autonomous() {
-        
+       
     }
 
     /**
